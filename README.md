@@ -34,3 +34,7 @@ python mnist_digit_recognition.py
 
 
 ```
+## The code is also available on colab
+Alternatively, you can run the project on Google Colab by clicking the following link:  
+[Google Colab - MNIST Handwritten Digit Recognition](https://colab.research.google.com/drive/1JfNfM8ZGgffanyUJ0DlpdJXKLnqUn_5M?usp=sharing)
+
