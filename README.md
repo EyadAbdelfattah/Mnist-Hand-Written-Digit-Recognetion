@@ -28,7 +28,7 @@ You can install the dependencies using `pip`:
 ```bash
 pip install tensorflow numpy matplotlib
 
-git clone https://github.com/your-username/Mnist-Hand-Written-Digit-Recognition.git
+git clone https://github.com/EyadAi/Mnist-Hand-Written-Digit-Recognition.git
 
 python mnist_digit_recognition.py
 
